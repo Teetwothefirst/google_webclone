@@ -1,3 +1,20 @@
 body {
     background: rgba(0, 0, 0, 0.87);
+
+
+
+
+}
+div .head{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+div main{
+    background-color: aqua;
+}
+div footer{
+    background-color: white;
+    color: blue;
 }
