@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #FAFAFA;
+}
+#app{
+    background: #FAFAFA;
+}
+.noListStyle{
+    list-style: none;
+}
+#cardSide{
+    height: 100vh;
+    border-radius: 0;
+    width: 100%;
+}
+.someSide{
+    background: #34CAA5;
+}
+.Icon{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    border: none;
+    background-color: #34CAA5;
+    border-radius: 50%;
+}
+.IconCenter{
+    position: absolute;
+    top: 2px;
+    left: 20%;
+    color: white;
+}
+.searchForm{
+    border-radius: 20px !important;
+}
+/* Font Sizes */
+.fontSizelg{
+    font-size: 20px;
+}
+.fontSizemd{
+    font-size: 16px;
+}
+.fontSizesm{
+    font-size: 12px;
+}
+.rowDash{
+    width: 100%
+}
+.nav-link.active{
+    background:#FAFAFA !important;
+    color: black !important;
+}
